@@ -1,6 +1,6 @@
 # iotca2
 
-Please ensure that you have the following items :-
+-Please ensure that you have the following items :-
 1) A Raspberry PI with Raspbian image.
 2) 7 Jumper Wires
 3) 1x PiCamera
@@ -11,4 +11,4 @@ Please ensure that you have the following items :-
 8) 1x GPIO Extension Board
 9) Internet Connection
 
-- Done by DISM/FT/3A/33 Mark & Sukun - 
+- Done by DISM/FT/3A/33 Mark & Sukun 
