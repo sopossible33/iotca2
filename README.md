@@ -10,3 +10,5 @@ Please ensure that you have the following items :-
 7) 1x GPIO cable
 8) 1x GPIO Extension Board
 9) Internet Connection
+
+- Done by DISM/FT/3A/33 Mark & Sukun - 
